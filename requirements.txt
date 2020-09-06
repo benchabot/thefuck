@@ -9,3 +9,5 @@ pypandoc
 pytest-benchmark
 pytest-docker-pexpect
 twine
+
+pip>=19.2 # not directly required, pinned by Snyk to avoid a vulnerability
